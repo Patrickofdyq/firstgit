@@ -1,8 +1,4 @@
-黑马
-程序员
-你好
-大家好
-
-我们都好
-
-我我
+public class Demo
+{
+	String s = "master";
+}
