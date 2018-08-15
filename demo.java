@@ -1,6 +1,7 @@
 public class Demo
 {
 
-	String s = "解决了冲突后的代码";
+	String s = "abcdefg";
+	String ss = "还是乱码吗";
 
 }
