@@ -3,5 +3,9 @@ public class Demo
 
 	String s = "aler content to UTF-8";
 	String ss = "success";
-
+<<<<<<< HEAD
+	String sss = "isSuccess";
+=======
+	String sss = "successful";
+>>>>>>> e20819d96f2af2959d593b0c3dd8c4d39752d998
 }
