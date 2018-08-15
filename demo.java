@@ -1,7 +1,6 @@
 public class Demo
 {
 
-	String s = "abcdefg";
-	String ss = "»¹ÊÇÂÒÂëÂğ";
+	String s = "ä½ å¥½å•Š"
 
 }
